@@ -1,1 +1,6 @@
 Hello this is my first git comment
+
+It required me to add more text to this file. so that i can view the changes
+thru the command line process, I have no idea why i am still typing but we will see how this turns out.
+
+Also dont forget to do your homework you big dumbie!!!
